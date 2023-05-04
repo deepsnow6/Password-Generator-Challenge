@@ -42,6 +42,10 @@ After entering the desired length, you will be asked to choose which types of ch
 
 Once you have specified the desired criteria, the generator will create a new password and display it in the "Your Secure Password" box.
 
+## Credits
+This project uses source code linked in the following repository, created by user Xandromus, and doesn't appear to use a liscence. [Xandromus] (https://github.com/coding-boot-camp/friendly-parakeet)
+
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
