@@ -1,5 +1,3 @@
-// Assignment code here
-
 // Add event listener to generate button
 var generateBtn = document.querySelector("#generate");
 
