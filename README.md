@@ -48,4 +48,4 @@ This project uses source code linked in the following repository, created by use
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the MIT License. See the LICENSE file for more information
