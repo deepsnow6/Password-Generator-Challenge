@@ -1,6 +1,8 @@
 # Password-Generator-Challenge
 
-# Link to live apllication 
+# Link to live application 
+
+![Screen Shot 2023-05-03 at 10 15 40 PM](https://user-images.githubusercontent.com/130337959/236111420-4ce67576-c034-44ba-9096-39217bacb316.png)
 
 ## Project Description
 
